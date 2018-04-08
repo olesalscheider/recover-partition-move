@@ -1,0 +1,5 @@
+I wrote this to undo an interrupted partition move.
+
+This code contains many assumptions that are only valid for my case.
+But maybe it can help you to write your own code for your problem.
+
